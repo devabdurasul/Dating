@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.Dating/.idea/.gitignore
+/.idea/.idea.Dating/.idea/encodings.xml
+/.idea/.idea.Dating/.idea/indexLayout.xml
+/.idea/.idea.Dating/.idea/vcs.xml
